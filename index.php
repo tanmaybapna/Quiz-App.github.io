@@ -36,15 +36,12 @@ include('config.php'); ?>
       width: 100%;
       min-height: 91.3vh;
       background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('test2.jpg');
-      /* background-image: url('head.png'); */
       background-position: top;
       background-size: cover;
       background-repeat: no-repeat;
       display: flex;
       justify-content: center;
       padding: .5rem 1rem;
-      /* padding-top: 14%; */
-      /* clip-path: polygon(0 0, 100% 0%, 100% 100%, 100% 100%, 100% 90%, 69% 100%, 0% 85%); */
     }
 
     .header_left {
@@ -65,8 +62,6 @@ include('config.php'); ?>
     a:hover p {
       text-decoration: none;
     }
-
-
 
     .header_right {
       width: 50%;
@@ -95,8 +90,6 @@ include('config.php'); ?>
     .hc_row2 form {
       height: 100%;
       width: 100%;
-      /* padding: 20px ; */
-
     }
 
     .hc_row2 table {
@@ -105,12 +98,10 @@ include('config.php'); ?>
       width: 100%;
       border-radius: .5rem;
       box-shadow: 0 0 10px black;
-
     }
 
 
     .hc_row2 input {
-
       width: 100%;
       border: 0;
       color: white;
@@ -131,7 +122,6 @@ include('config.php'); ?>
       padding: 10px;
     }
 
-
     .hc_row2 button {
       color: #fff;
       padding: 10px;
@@ -139,10 +129,6 @@ include('config.php'); ?>
       border: 0;
 
     }
-
-
-
-
 
     /* ----------  */
     .h-text {
@@ -160,9 +146,7 @@ include('config.php'); ?>
     .my_btn {
       font-size: 1.3rem;
       font-weight: 700;
-
     }
-
 
     /*-------------media query-------- */
 
@@ -233,12 +217,9 @@ include('config.php'); ?>
         font-size: 3rem;
       }
 
-
       .background {
         height: 65vh;
       }
-
-
     }
   </style>
 </head>

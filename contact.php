@@ -75,22 +75,12 @@
 
     <div class="container my-5 mx-auto d-flex" style="min-height:60.34vh;">
         <div class="w-100 mx-auto my-5 topic_container">
+        
             <div class="topic_box">
-                <h3 style="width: 101%; margin-left:-3px;" class="pl-3 bg-primary py-2 text-light mb-3">Email</h3>
-                <p><a href="mailto:arpitasardar911@gmail.com">arpitasardar911@gmail.com</a></p>
-                <p><a href="mailto:soumyadeeps358@gmail.com">soumyadeeps358@gmail.com</a></p>
+                <h3 style="width: 101%; margin-left:-3px;" class="pl-3 bg-primary py-2 text-light mb-2">Design and Developed By</h3>
+                <p>Tanmay Bapna</p>
             </div>
-            <div class="topic_box">
-                <h3 style="width: 101%; margin-left:-3px;" class="pl-3 bg-primary py-2 text-light mb-2">Number</h3>
-                <p><a href="tel:7362999291">7362999291</a></p>
-                <p><a href="tel:9093466092">9093466092</a></p>
-                <p><a href="tel:8348652744">8348652744</a></p>
-            </div>
-            <div class="topic_box">
-                <h3 style="width: 101%; margin-left:-3px;" class="pl-3 bg-primary py-2 text-light mb-3">Address</h3>
-                <p>1st Block 1st Cross, Angelow valley, California-260016</p>
-            </div>
-
+            
         </div>
     </div>
 

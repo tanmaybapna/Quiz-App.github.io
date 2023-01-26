@@ -6,6 +6,8 @@
 (Add new quiz Subject/topic) 
   and
 (Add questions)
+ and
+(Remove Users)
 
 👉User Pannel
 
